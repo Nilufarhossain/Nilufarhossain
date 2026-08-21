@@ -297,9 +297,9 @@ SQL-based database testing covering:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nilufarhossain&show_icons=true&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilufarhossain&hide_border=true" />
 
 </div>
 
@@ -307,7 +307,7 @@ SQL-based database testing covering:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilufarhossain&layout=compact&hide_border=true" />
 
 </div>
 
@@ -341,13 +341,13 @@ I believe good QA means understanding the product, thinking from the user's pers
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nilufar-hossain-764939254/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
-<a href="mailto:YOUR_EMAIL">
+<a href="hossainnilufar12@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -361,7 +361,7 @@ I believe good QA means understanding the product, thinking from the user's pers
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Nilufarhossain&label=Profile%20Views&style=for-the-badge" />
 
 <br/><br/>
 
