@@ -298,11 +298,6 @@ I believe quality assurance is about understanding how a product should behave, 
 
 ### 💻 Test. 🧪 Learn. 🐞 Discover. 🔧 Improve. 🚀 Repeat.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Nilufarhossain&label=Profile%20Views&style=for-the-badge" />
-
-<br/><br/>
 
 ⭐ **Thanks for visiting my GitHub profile!**
 
