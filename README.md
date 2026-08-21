@@ -343,11 +343,6 @@ I believe good QA means understanding the product, thinking from the user's pers
 
 ### 💻 Test. 🧪 Learn. 🐞 Discover. 🔧 Improve. 🚀 Repeat.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Nilufarhossain&label=Profile%20Views&style=for-the-badge" />
-
-<br/><br/>
 
 ⭐ **Thanks for visiting my GitHub profile!**
 
