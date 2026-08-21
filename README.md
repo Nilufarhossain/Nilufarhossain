@@ -286,7 +286,7 @@ I believe quality assurance is about understanding how a product should behave, 
 
  
 
-<a href="hossainnilufar12@gmail.com">
+<a href="https://mail.google.com/mail/u/0">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
