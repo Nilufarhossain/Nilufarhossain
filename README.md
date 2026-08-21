@@ -251,25 +251,6 @@ for performance testing and understanding application behavior under load.
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nilufarhossain&show_icons=true&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilufarhossain&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilufarhossain&layout=compact&hide_border=true" />
-
-</div>
-
----
 
 # 💭 My Testing Philosophy
 
@@ -299,13 +280,13 @@ I believe quality assurance is about understanding how a product should behave, 
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nilufar-hossain-764939254/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
-<a href="mailto:YOUR_EMAIL">
+<a href="hossainnilufar12@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
