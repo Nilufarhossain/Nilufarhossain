@@ -295,23 +295,7 @@ SQL-based database testing covering:
 
 # 📊 GitHub Activity
 
-<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nilufarhossain&show_icons=true&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilufarhossain&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilufarhossain&layout=compact&hide_border=true" />
-
-</div>
-
----
 
 # 🌱 Currently Improving
 
