@@ -1,14 +1,12 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm Nilufar Hossain
 
-### Software QA Engineer 🧪
+### Software QA Engineer | Manual & Automation Testing 🧪
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=750&lines=Software+QA+Engineer+%F0%9F%A7%AA;Manual+%7C+API+%7C+Database+Testing;Functional+%7C+Regression+%7C+Integration+Testing;Finding+Bugs+%E2%80%A2+Improving+Quality+%E2%80%A2+Building+Better+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=850&lines=Software+QA+Engineer;Manual+%7C+Automation+%7C+API+Testing;JavaScript+%7C+Playwright+%7C+SQL;Functional+%7C+Regression+%7C+End-to-End+Testing;Finding+Bugs+%E2%80%A2+Improving+Software+Quality" alt="Typing Animation" />
 
-<br/>
-
-**Test 🧪 • Discover 🐞 • Improve 🔧 • Repeat 🚀**
+**Test 🧪 • Automate ⚙️ • Discover 🐞 • Improve 🚀**
 
 </div>
 
@@ -16,278 +14,192 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Software testing animation" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I'm a **Software QA Engineer** with hands-on experience in manual testing, REST API testing, database validation, integration testing, and end-to-end testing of web applications.
 
-I'm a **Software QA Engineer** with hands-on experience testing web applications, APIs, databases, and complex business workflows.
+My experience includes designing test scenarios, executing functional and regression tests, investigating defects, validating business workflows, and collaborating with developers in Agile environments.
 
-My work involves understanding requirements, designing test scenarios, executing functional and regression tests, investigating defects, validating APIs and databases, and collaborating with developers throughout the software development lifecycle.
+I'm also developing my **test automation skills using JavaScript and Playwright**, building practical projects that cover browser automation, reusable test functions, assertions, positive and negative testing, and automated reporting.
 
-I enjoy looking beyond the happy path and understanding **why something breaks**, not just identifying that it broke.
-
-* 🧪 Manual, Functional & Regression Testing
-* 🔌 REST API Testing with **Postman**
-* 🗄️ Database Validation using **SQL**
-* 🔄 Integration & End-to-End Testing
-* 🐞 Defect Investigation, Reporting & Retesting
-* 📋 Test Case & Test Scenario Design
-* ⚡ Performance Testing with **JMeter & K6**
-* 🤝 Experience working in **Agile/Scrum teams**
-
-<br clear="right"/>
+I enjoy understanding how applications work, identifying unexpected behavior, and improving software reliability through effective testing.
 
 ---
 
-# 🚀 My QA Journey
+## 🛠️ Technical Skills & Tools
 
-```mermaid
-flowchart BT
-    A["🧪 Manual Testing"]
-    B["📋 Functional & Regression Testing"]
-    C["🔌 API Testing"]
-    D["🗄️ Database Testing"]
-    E["🔗 Integration & E2E Testing"]
-    F["⚡ Performance Testing"]
-    G["💼 Software QA Engineer"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-```
+### 🧪 QA & Test Automation
 
 <div align="center">
 
-### 🧪 Testing Fundamentals → 🔌 Technical Testing → 💼 Software Quality Assurance
-
-</div>
-
-My QA journey started with building a strong foundation in **manual software testing** — understanding requirements, designing test scenarios, executing tests, identifying defects, and documenting issues clearly.
-
-As my experience grew, I expanded my testing beyond the user interface into **REST APIs and databases**.
-
-<div align="center">
-
-### 🖥️ Frontend ↔️ 🔌 API ↔️ 🗄️ Database
-
-</div>
-
-Working with real-world applications has given me experience testing complex workflows, integrations, CRUD operations, regression scenarios, data behavior, and application functionality across different environments.
-
----
-
-# 🎯 My Career Goal
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&center=true&vCenter=true&width=850&lines=Growing+as+a+Software+QA+Engineer+%F0%9F%9A%80;Strengthening+my+Technical+Testing+Skills+%F0%9F%94%8D;Understanding+Applications+Beyond+the+UI+%F0%9F%94%8C;Improving+API+%26+Database+Testing+Skills+%F0%9F%93%9A;Helping+Teams+Deliver+Reliable+Software+%E2%9C%A8" alt="Career Goal Animation" />
-
-</div>
-
-My goal is to continue growing as a **Software QA Engineer**, deepen my technical testing knowledge, and become stronger at testing complex applications from both the user and system perspectives.
-
-I want to continue developing my skills in **API testing, database testing, performance testing, integration testing, and software quality practices** while contributing to reliable, user-focused software.
-
-<div align="center">
-
-### 🔍 Understand → 🧪 Test → 🐞 Investigate → 🔧 Improve → 🚀 Deliver
-
-</div>
-
----
-
-# 🛠️ My QA Toolbox
-
-## 🧪 Testing
-
-<div align="center">
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" title="Postman"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://jmeter.apache.org/images/jmeter_square.svg" width="50" height="50" title="Apache JMeter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman"/>
+&nbsp;&nbsp;
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" width="48" height="48" alt="JMeter"/>
 
 <br/><br/>
 
-`Postman` • `JMeter` • `K6`
+`Playwright` • `JavaScript` • `Postman` • `JMeter` • `K6`
 
 </div>
 
----
-
-## 💻 Programming & Technical Skills
+### 💻 Programming & Technical Knowledge
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
 
 <br/><br/>
 
-`Python` • `Java` • `JSON` • `REST APIs`
+`JavaScript` • `Python` • `Java` • `Node.js` • `JSON` • `REST APIs`
 
 </div>
 
----
-
-## 🗄️ Database
+### 🗄️ Database Testing
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
 
 <br/><br/>
 
-`SQL` • `MySQL` • `PostgreSQL` • `DBeaver`
+`SQL` • `MySQL` • `PostgreSQL` • `DBeaver` • `Data Validation`
 
 </div>
 
----
-
-## ⚙️ Development & Collaboration
+### ⚙️ Development & Collaboration
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" title="Azure DevOps"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
 
 <br/><br/>
 
-`Git` • `GitHub` • `Azure DevOps` • `Jira` • `VS Code` • `Chrome DevTools`
+`Git` • `GitHub` • `GitHub Actions` • `Azure DevOps` • `Jira` • `VS Code` • `Chrome DevTools`
 
 </div>
 
 ---
 
-# 🎯 Core QA Skills
+## 🎯 Core QA Competencies
+
+| Area | Skills |
+|---|---|
+| Manual Testing | Functional, Regression, Smoke, Sanity, Exploratory |
+| Automation Testing | Playwright, JavaScript, Browser Automation |
+| API Testing | Postman, REST APIs, JSON, HTTP Methods |
+| Database Testing | SQL Queries, Data Validation, CRUD Operations |
+| End-to-End Testing | User Workflows, Integration Testing |
+| Performance Testing | Apache JMeter, K6 |
+| Test Management | Test Cases, Test Scenarios, Bug Reporting, Retesting |
+| QA Processes | Agile, Scrum, SDLC, STLC, CI/CD |
+
+---
+
+## 🚀 Featured Automation Project
+
+### ⚙️ Web Application Test Automation
+
+**JavaScript | Playwright | Node.js | GitHub Actions**
+
+A browser automation testing project developed to demonstrate practical end-to-end QA automation skills.
+
+The project covers employee management workflows, authentication, CRUD operations, input validation, and both positive and negative test scenarios.
+
+**Key Features:**
+
+- Automated login and logout testing
+- Employee creation, search, update, and deletion
+- Positive and negative test scenarios
+- Dynamic employee ID handling
+- Reusable login helper
+- Playwright assertions and locators
+- Automated HTML test reports
+- GitHub Actions workflow configuration
+
+**Test execution:** 27 passed, 1 skipped in a recorded Chromium run.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Manual_Testing-Experienced-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API_Testing-Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Database_Testing-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Performance_Testing-JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+### 📂 [View Automation Project on GitHub](https://github.com/Nilufarhossain/playwright-automation)
 
 </div>
 
-<br/>
+---
 
-### 🧪 Testing
+## 🔍 Other QA Experience
 
-`Manual Testing` • `Functional Testing` • `Regression Testing` • `Smoke Testing` • `Sanity Testing`
+### 🔌 REST API Testing
 
-### 🔗 Technical Testing
+Hands-on experience testing APIs with Postman, including:
 
-`API Testing` • `Database Testing` • `Integration Testing` • `End-to-End Testing` • `Performance Testing`
+- GET, POST, PUT/PATCH, DELETE
+- HTTP status-code validation
+- JSON request and response validation
+- Positive and negative scenarios
+- CRUD operations and integration workflows
 
-### 🐞 Quality Assurance
+### 🗄️ Database Testing
 
-`Test Case Design` • `Test Scenarios` • `Bug Reporting` • `Defect Tracking` • `Retesting` • `Exploratory Testing`
+Experience with SQL-based validation, database queries, record verification, and data integrity testing.
 
-### 🔄 Process
+### ⚡ Performance Testing
 
-`Agile` • `Scrum` • `SDLC` • `STLC` • `Bug Life Cycle` • `CI/CD`
+Experience using **Apache JMeter and K6** to understand application behavior and performance under load.
+
+### 🐞 Functional & Regression Testing
+
+Experience with requirement analysis, test scenario design, functional and regression testing, exploratory testing, defect reporting, and retesting.
 
 ---
 
-# 📂 Featured QA Work
+## 🌱 Currently Learning & Improving
 
-## 🔌 REST API Testing
-
-Experience testing REST APIs using **Postman**, including:
-
-`GET` • `POST` • `PUT/PATCH` • `DELETE`
-
-* ✅ Response validation
-* ✅ HTTP status-code validation
-* ✅ Positive scenarios
-* ❌ Negative scenarios
-* 🔄 CRUD operations
-* 📦 JSON request & response validation
+- Advanced Playwright automation with JavaScript
+- API automation testing
+- Reusable automation frameworks
+- GitHub Actions and CI/CD integration
+- Improving automation reliability and test coverage
 
 ---
 
-## 🧪 Functional & Regression Testing
-
-Testing real-world application workflows through:
-
-* 📋 Requirement analysis
-* 🧪 Functional testing
-* 🔁 Regression testing
-* 🔗 Integration testing
-* 🌐 End-to-end workflow validation
-* ❌ Negative and edge-case testing
-* 🐞 Defect reporting and retesting
-
----
-
-## 🗄️ Database Testing
-
-SQL-based validation covering:
-
-`CRUD Operations` • `Joins` • `Data Validation` • `Constraints` • `Data Integrity`
-
----
-
-## ⚡ Performance Testing
-
-Experience using:
+## 💭 My Testing Philosophy
 
 <div align="center">
 
-### ⚡ Apache JMeter | 📈 K6
+### 🔍 Understand → 🧪 Test → 🐞 Investigate → ⚙️ Automate → 🚀 Improve
 
 </div>
 
-for performance testing and understanding application behavior under load.
+I believe software quality goes beyond finding bugs. It involves understanding requirements, anticipating risks, validating real-world workflows, investigating unexpected behavior, and collaborating with development teams to deliver reliable software.
 
 ---
 
-
-# 💭 My Testing Philosophy
-
-<div align="center">
-
-### 🐞 Finding a bug is only part of QA.
-
-### 🔍 Understand → 🧪 Test → 🐞 Investigate → 🔧 Improve → 🚀 Deliver
-
-</div>
-
-I believe quality assurance is about understanding how a product should behave, thinking from the user's perspective, identifying risks, investigating unexpected behavior, and collaborating with the development team to deliver reliable software.
-
----
-
-# 🌱 Currently Growing
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%94%8C+Deepening+my+API+Testing+Knowledge;%F0%9F%97%84%EF%B8%8F+Improving+Database+Testing+Skills;%E2%9A%A1+Exploring+Performance+Testing;%F0%9F%94%8D+Strengthening+Technical+QA+Skills;%F0%9F%9A%80+Growing+as+a+Software+QA+Engineer" alt="Learning Animation" />
-
-</div>
-
----
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nilufar-hossain-764939254/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
- 
+&nbsp;&nbsp;
 
-<a href="https://mail.google.com/mail/u/0">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/Nilufarhossain">
+<img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -296,8 +208,7 @@ I believe quality assurance is about understanding how a product should behave, 
 
 <div align="center">
 
-### 💻 Test. 🧪 Learn. 🐞 Discover. 🔧 Improve. 🚀 Repeat.
-
+### 🧪 Test • ⚙️ Automate • 🐞 Discover • 🔧 Improve • 🚀 Repeat
 
 ⭐ **Thanks for visiting my GitHub profile!**
 
