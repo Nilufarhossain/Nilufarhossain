@@ -58,7 +58,7 @@ I enjoy understanding how applications work, identifying unexpected behavior, an
 
 <br/><br/>
 
-`JavaScript` • `Python` • `Java` • `Node.js` • `JSON` • `REST APIs`
+`JavaScript` • `Python` • `Java`  • `JSON` • `REST APIs`
 
 </div>
 
